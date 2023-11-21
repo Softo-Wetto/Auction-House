@@ -1,0 +1,105 @@
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\reoot\OneDrive\Documents\Computer Science\Semester 2\CAB201 Programming Principles\Assessment 2\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\ref\AuctionHouse.dll
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\reoot\Documents\Computer Science (University)\Semester 2\CAB201 Programming Principles\CAB201_Assignment_2022_S2_n11283602\Auction_House\obj\Debug\net6.0\ref\AuctionHouse.dll
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\reoot\Downloads\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\ref\AuctionHouse.dll
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\reoot\Downloads\BEFORE FUCK UP\BEFORE FUCK UP\Auction_House\obj\Debug\net6.0\ref\AuctionHouse.dll
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\reoot\Downloads\BETTER\BETTER\BTEERE 2\Auction_House\obj\Debug\net6.0\ref\AuctionHouse.dll
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\reoot\Downloads\BTEERE 2\BTEERE 2\Auction_House\obj\Debug\net6.0\ref\AuctionHouse.dll
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\reoot\OneDrive\Documents\Computer Science\BITCH\BITCH\Auction_House\obj\Debug\net6.0\ref\AuctionHouse.dll
